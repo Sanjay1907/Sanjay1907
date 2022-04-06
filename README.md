@@ -38,4 +38,7 @@ I am a Software Engineering Student at Vellore Institute of Technology
 </table>
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sanjay1907&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sanjay's Top Languages">
+<div align="center">
+Show some ❤️ by starring some of the repositories!
+</div>
 
