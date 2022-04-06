@@ -31,8 +31,8 @@ I am a Software Engineering Student at Vellore Institute of Technology
 
 <table>
   <tr>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjay1907&show_icons=true&locale=en" alt="Sanjay1907" /></p
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay1907&" alt="Sanjay1907" /></p>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sanjay1907&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay1907&theme=radical" alt="Sanjay1907" /></td>
    </tr>
 </table>
   
