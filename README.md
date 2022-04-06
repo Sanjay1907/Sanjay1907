@@ -8,16 +8,17 @@
 <a href="mailto:sanjay.a19@yahoo.com?subject=Hi%20Sanjay A"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 I am a Software Engineering Student at Vellore Institute of Technology
+
 -   🔭 I’m currently working on **various projects** :grin:
--   
+
 -   🌱 I’m currently learning **React JS**
 
 -   👯 I’m looking to collaborate on **Web Design / Web Development**
--   
+   
 -   👨‍💻 All of my projects are available at [https://github.com/Sanjay1907](https://github.com/Sanjay1907)
--   
+  
 -   📫 How to reach me **sanjay.a19@yahoo.com**
--   
+   
 -   📄 Know about my experiences [https://www.linkedin.com/in/sanjay-a-987908225/](https://www.linkedin.com/in/sanjay-a-987908225/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
