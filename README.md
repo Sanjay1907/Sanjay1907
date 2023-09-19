@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay A</h1>
-<h3 align="center">A passionate Web development Enthusiast</h3>
+<h3 align="center">A passionate App development Enthusiast</h3>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Sanjay1907&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay1907" /> </div>
 <p align="center">
@@ -13,7 +13,7 @@ I am a Software Engineering Student at Vellore Institute of Technology
 
 -   🌱 I’m currently learning **React JS**
 
--   👯 I’m looking to collaborate on **Web Design / Web Development**
+-   👯 I’m looking to collaborate on **App Development/ Web Development**
    
 -   👨‍💻 All of my projects are available at [https://github.com/Sanjay1907](https://github.com/Sanjay1907)
   
