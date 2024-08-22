@@ -5,7 +5,7 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/sanjay-a-987908225/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:sanjay.a19@yahoo.com?subject=Hi%20Sanjay A"><img src="https://img.shields.io/badge/yahoo_mail-%23012070.svg?&style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo"/></a>&nbsp;
+<a href="mailto:sanjay.a19@yahoo.com?subject=Hi%20Sanjay%20A"><img src="https://img.shields.io/badge/mail-%23D32F2F.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>&nbsp;
 </p>
 I am a Software Engineering Student at Vellore Institute of Technology
 
