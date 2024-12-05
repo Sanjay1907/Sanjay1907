@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-I'm a Software Engineering Student at Vellore Institute of Technology with a keen interest in technology and development.
+I'm a final year Software Engineering Student at Vellore Institute of Technology, Chennai with a keen interest in technology and development.
 </p>
 
 - 🔭 **Currently Working On**: A variety of exciting projects, focusing on Django applications and Android app development.
